@@ -1,0 +1,11 @@
+{
+  "routes": {
+    "/profile": {},
+    "/profile/about": {},
+    "/profile/contact": {},
+    "/profile/home": {},
+    "/profile/project": {},
+    "/profile/resume": {},
+    "/profile/skills": {}
+  }
+}
